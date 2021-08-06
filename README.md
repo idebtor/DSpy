@@ -1,2 +1,2 @@
 # DSpy
-Data Structures with Python(AIX20001) 강의 자료실
+Data Structures in Python(AIX20001) 강의 자료실
