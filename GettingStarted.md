@@ -1,4 +1,4 @@
-# Artificial Intelligence Applications for ALL
+# Data Structues in Python
 
 Lecture Notes by idebtor@gmail.com
 -------------------
