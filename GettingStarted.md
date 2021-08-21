@@ -77,7 +77,7 @@ Use the following command if you need more installation of packages (-U for upgr
 
 After installation of __GitHub Desktop__, be a member if already not.
 
-  - Clone the GitHub `DSpy` repository into your local computer:
+  - Clone the GitHub `DSpy` repository into your local computer (e.g. `C:/github/dspy`):
     - https://github.com/idebtor/DSpy  
 
   - How to clone a repository from GitHub:
