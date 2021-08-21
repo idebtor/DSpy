@@ -1,4 +1,5 @@
 # Data Structues in Python
+### 파이썬으로 배우는 데이터 구조
 
 Lecture Notes by idebtor@gmail.com
 -------------------
