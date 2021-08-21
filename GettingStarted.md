@@ -86,7 +86,9 @@ After installation of __GitHub Desktop__, be a member if already not.
   - Click __'watch'__ and __'star'__ at the top of the web page^^.
 
   - Then, in your computer, you may have the following github/DSpy folder as shown below (`user` may be different in your system.):
-    - ```C:\Users\user\Documents\GitHub\DSpy```
+    - ```C:\Users\user\Documents\GitHub\DSpy```   
+    - ```C:\GitHub\DSpy```           
+    I recommend you to make the path simple as possible like `C:\github\dspy`
 
   - Since this `DSpy` repository can be updated anytime, keep this local repository as "read-only".  Don't code yours here!.
   - Copy them into your own repository or your own local development folders in your computer you can easily access them.  They should look like the following:
