@@ -1,8 +1,12 @@
-# Data Structues in Python
-### 파이썬으로 배우는 데이터 구조
+그런즉 너희가 먹든지 마시든지 무엇을 하든지 다 하나님의 영광을 위하여 하라 (고전10:31)
 
-Lecture Notes by idebtor@gmail.com
--------------------
+----
+<img src="https://github.com/idebtor/DSpy/blob/6b3676c3de29f85d2e7f30679676d1fd96d88b17/images/WelcomeToDataStructures.jpg?raw=true" width=1000>
+
+__NOTE:__ The following materials have been compiled and adapted from the numerous sources including my own. Please help me to keep this tutorial up-to-date by reporting any issues or questions. Send any comments or criticisms to `idebtor@gmail.com` Your assistances and comments will be appreciated.
+
+----
+
 # Getting Started
   __To get started__, do the first thing first:
 
@@ -13,17 +17,22 @@ Lecture Notes by idebtor@gmail.com
 
   This is available at [github.com/idebtor/DSpy](https://github.com/idebtor/DSpy).
 
-
-### How to view markdown(.md) files in Chrome (or rendering in HTML)
+## Three ways to view markdown(.md) files
+### GitHub 
   0. View them always in github website automatically and better.
-  - and/or
-  1. Install `Markdown Viewer` extension.
-  2. Navigate to `chrome://extensions` and
-      - Locate `Markdown Viewer` and click on the `DETAILS` button
-      - Check the option `Allow access to file URLs`
-  2. (크롬에서 `chrome://extensions` 접속 한 후, `Markdown Viewer` `세부정보`에서 "파일 URL에 대한 액세스 허용"을 체크하십시오)
-  3. Open local or remote .md file in Chrome.
-  4. Enjoy nicely formatted HTML!
+  1. GitHub does not support `LaTex` yet. You may not see the well-formatted math equations.
+### Web browser
+  1. Install `Markdown Preview Plus` extension in your browser(Chrome, Edge).
+  2. Go to `extensions, 도구 더보기 혹은 확장` in the browser's setting 
+  3. Locate `Markdown Preview Plus` and click on the `DETAILS 세부정보`
+  4. Check the option `Allow access to file URLs, 파일 URL에 대한 액세스 허용`
+  5. Drag and drop ~.md file in your brower.
+  6. For `LaTex`, check the math option in `Markdown Preview Plus` icon in your brower top menubar'. 
+  7. Enjoy nicely formatted HTML!
+### MS `Code` 
+  1. Install `Markdown All in One` & `Auto-Open Preview` extensions in your `Code`.
+  2. Enjoy nicely formatted HTML!
+### Refer to my tutorial: <https://youtu.be/sS1viPcXDIo> 
 
 There are two ways to join Piazza, connect to the www.piazza.com.
   - To join Piazza, you may need the following information and
