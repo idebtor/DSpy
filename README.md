@@ -17,24 +17,30 @@ Lecture notes by idebtor@gmail.com
 
 여러분을 이 과목으로 만나고, 또한 섬길 수 있어서 감사합니다.   
 주 안에서(빚진자)<><   
-전산전자공학부 김영섭 교수  
-idebtor@gmail.com 
+전산전자공학부 김영섭 교수   
+idebtor@gmail.com    
 
-## Three ways to view markdown(.md) files
-### GitHub 
-  0. View them always in github website automatically and better.
+# Three ways to view markdown(.md) files
+
+## GitHub 
+
+  1. View them always in github website automatically and better.
   1. GitHub does not support `LaTex` yet. You may not see the well-formatted math equations.
-### Web browser
+
+## Web Browser (Chrome/Edge)
+
   1. Install `Markdown Preview Plus` extension in your browser(Chrome, Edge).
-  2. Go to `extensions, 도구 더보기 혹은 확장` in the browser's setting 
-  3. Locate `Markdown Preview Plus` and click on the `DETAILS 세부정보`
-  4. Check the option `Allow access to file URLs, 파일 URL에 대한 액세스 허용`
-  5. Drag and drop ~.md file in your brower.
-  6. For `LaTex`, check the math option in `Markdown Preview Plus` icon in your brower top menubar'. 
-  7. Enjoy nicely formatted HTML!
-### MS `Code` 
+  1. Go to `extensions, 도구 더보기 혹은 확장` in the browser's setting 
+  1. Locate `Markdown Preview Plus` and click on the `DETAILS 세부정보`
+  1. Check the option `Allow access to file URLs, 파일 URL에 대한 액세스 허용`
+  1. Drag and drop ~.md file in your brower.
+  1. For `LaTex`, check the math option in `Markdown Preview Plus` icon in your brower top menubar'. 
+  1. Enjoy nicely formatted HTML!
+
+## Visual Studio `Code` 
   1. Install `Markdown All in One` & `Auto-Open Preview` extensions in your `Code`.
-  2. Enjoy nicely formatted HTML!
+  1. Enjoy nicely formatted HTML!
+
 ### Refer to my tutorial: <https://youtu.be/sS1viPcXDIo> 
 
 ----

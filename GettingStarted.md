@@ -1,11 +1,12 @@
 그런즉 너희가 먹든지 마시든지 무엇을 하든지 다 하나님의 영광을 위하여 하라 (고전10:31)
 
-----
+-------
 <img src="https://github.com/idebtor/DSpy/blob/6b3676c3de29f85d2e7f30679676d1fd96d88b17/images/WelcomeToDataStructures.jpg?raw=true" width=1000>
 
 __NOTE:__ The following materials have been compiled and adapted from the numerous sources including my own. Please help me to keep this tutorial up-to-date by reporting any issues or questions. Send any comments or criticisms to `idebtor@gmail.com` Your assistances and comments will be appreciated.
+Lecture notes by idebtor@gmail.com
 
-----
+-----
 
 # Getting Started
   __To get started__, do the first thing first:
@@ -18,10 +19,12 @@ __NOTE:__ The following materials have been compiled and adapted from the numero
   This is available at [github.com/idebtor/DSpy](https://github.com/idebtor/DSpy).
 
 ## Three ways to view markdown(.md) files
+
 ### GitHub 
   0. View them always in github website automatically and better.
   1. GitHub does not support `LaTex` yet. You may not see the well-formatted math equations.
-### Web browser
+
+### Web Browser (Chrome/Edge)
   1. Install `Markdown Preview Plus` extension in your browser(Chrome, Edge).
   2. Go to `extensions, 도구 더보기 혹은 확장` in the browser's setting 
   3. Locate `Markdown Preview Plus` and click on the `DETAILS 세부정보`
@@ -29,10 +32,14 @@ __NOTE:__ The following materials have been compiled and adapted from the numero
   5. Drag and drop ~.md file in your brower.
   6. For `LaTex`, check the math option in `Markdown Preview Plus` icon in your brower top menubar'. 
   7. Enjoy nicely formatted HTML!
-### MS `Code` 
+
+### Visual Studio Code
   1. Install `Markdown All in One` & `Auto-Open Preview` extensions in your `Code`.
   2. Enjoy nicely formatted HTML!
-### Refer to my tutorial: <https://youtu.be/sS1viPcXDIo> 
+  
+Refer to my tutorial: <https://youtu.be/sS1viPcXDIo> 
+
+## Joining Piazza
 
 There are two ways to join Piazza, connect to the www.piazza.com.
   - To join Piazza, you may need the following information and
