@@ -37,7 +37,7 @@ idebtor@gmail.com
   1. For `LaTex`, check the math option in `Markdown Preview Plus` icon in your brower top menubar'. 
   1. Enjoy nicely formatted HTML!
 
-## Visual Studio `Code` 
+## Visual Studio Code
   1. Install `Markdown All in One` & `Auto-Open Preview` extensions in your `Code`.
   1. Enjoy nicely formatted HTML!
 
