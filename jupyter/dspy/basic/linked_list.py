@@ -8,7 +8,6 @@ Updated by Roman Yasinovskyy, 2017
 
 from abc import ABC, abstractmethod
 
-
 class LinkedListNode:
     """A node of a linked list"""
 
@@ -75,8 +74,8 @@ class LinkedList(ABC):
         return list_str
 
     @abstractmethod
-    def add(self, value):
-        """Add a new node"""
+    def push(self, value):
+        """Push a new node"""
         pass
 
     @abstractmethod
@@ -90,15 +89,15 @@ class LinkedList(ABC):
         pass
 
 
-class UnorderedList(LinkedList):
-    """Unordered linked list implementation"""
+class ListUnsorted(LinkedList):
+    """Unsorted linked list implementation"""
 
     def __init__(self):
         """Create an unordered linked list"""
         LinkedList.__init__(self)
 
-    def add(self, value):
-        """Add a new node"""
+    def push(self, value):
+        """Push a new node at the front"""
         new_node = LinkedListNode(value)
         new_node.set_next(self._head)
         self._head = new_node
@@ -132,15 +131,15 @@ class UnorderedList(LinkedList):
         return False
 
 
-class OrderedList(LinkedList):
-    """Ordered linked list implementation"""
+class ListSorted(LinkedList):
+    """Sorted linked list implementation"""
 
     def __init__(self):
-        """Create an Ordered linked list"""
+        """Create a Sorted linked list"""
         LinkedList.__init__(self)
 
-    def add(self, value):
-        """Add a new node"""
+    def push(self, value):
+        """Push a new node (sorted)"""
         current = self._head
         prev = None
         new_node = LinkedListNode(value)
