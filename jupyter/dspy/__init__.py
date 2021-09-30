@@ -3,7 +3,7 @@
 dspy import statement
 """
 
-from dspy.basic import Stack, Queue, Deque
+from dspy.basic import Stack, Queue, Deque, ListUnsorted, ListSorted
 from dspy.graphs import Graph, Vertex
 from dspy.searching import HashTable
 from dspy.trees import (
@@ -18,6 +18,8 @@ __all__ = [
     "Stack",
     "Queue",
     "Deque",
+    "ListUnsorted", 
+    "ListSorted",
     "Graph",
     "Vertex",
     "HashTable",

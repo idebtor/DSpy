@@ -79,12 +79,12 @@ class LinkedList(ABC):
         pass
 
     @abstractmethod
-    def remove(self, value):
+    def pop(self, value):
         """Remove a node with a specific value"""
         pass
 
     @abstractmethod
-    def search(self, value):
+    def find(self, value):
         """Search for a node with a specific value"""
         pass
 
@@ -103,7 +103,7 @@ class ListUnsorted(LinkedList):
         self._head = new_node
         self._count = self._count + 1
 
-    def remove(self, value):
+    def pop(self, value):
         """Remove a node with a specific value"""
         current = self._head
         prev = None
@@ -120,7 +120,7 @@ class ListUnsorted(LinkedList):
             current = current.next
         raise ValueError("{} is not in the list".format(value))
 
-    def search(self, value):
+    def find(self, value):
         """Search for a node with a specific value"""
         current = self._head
 
@@ -156,12 +156,12 @@ class ListSorted(LinkedList):
             prev.next = new_node
         self._count = self._count + 1
 
-    def remove(self, value):
+    def pop(self, value):
         """Remove a node with a specific value"""
         # This is an exercise
         pass
 
-    def search(self, value):
+    def find(self, value):
         """Search for a node with a specific value"""
         # This is an exercise
         pass
