@@ -64,7 +64,7 @@ Anaconda is  a Python and R distribution package. It aims to provide everything 
   - At the beginning of installation, check the following option
       - Add Anaconda to my PATH environment variable as shown below:
 
-    <p align="center"> <img src="https://github.com/idebtor/KMOOC-ML/blob/master/ipynb/images/anaconda_check_path.png" width=500> </p>
+    <p align="center"> <img src="https://github.com/idebtor/KMOOC-ML/blob/master/ipynb/images//joyai/anaconda_check_path.jpg?raw=true" width=500> </p>
 
   - Need help? Follow [this guide](https://m.blog.naver.com/PostView.nhn?blogId=jooostory&logNo=221196479998&proxyReferer=https%3A%2F%2Fwww.google.com%2F).
 
