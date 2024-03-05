@@ -36,8 +36,6 @@ Lecture notes by idebtor@gmail.com
 ### Visual Studio Code
   1. Install `Markdown All in One` & `Auto-Open Preview` extensions in your `Code`.
   2. Enjoy nicely formatted HTML!
-  
-Refer to my tutorial: <https://youtu.be/sS1viPcXDIo> 
 
 ## Joining Piazza
 
